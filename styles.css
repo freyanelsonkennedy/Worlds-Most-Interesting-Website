@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+#link-container {
+    display: flex:
+}
+
+
 #content {
     position: relative;
     background-color: white;
