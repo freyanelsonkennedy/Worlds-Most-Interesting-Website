@@ -93,7 +93,10 @@ object-fit: cover;
 }
 
 a {
+    display: flex; 
     background-color: #666;
     padding: 25px;
     border-radius: 15px;
+    text-decoration: none;
+    color: white;
 }
