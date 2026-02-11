@@ -37,7 +37,10 @@ a {
     width: 200px;
     margin-left: auto;
     margin-right: auto;
-    background-color: none;
+}
+
+.logo-link {
+    background-color: inherit;
 }
 
 #hero-image-container {
